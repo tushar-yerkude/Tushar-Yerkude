@@ -1,5 +1,5 @@
 <h1 align="center">Hello👋, I'm Tushar Yerkude</h1>
-<h3 align="center">A curious guy about new tech</h3>
+<h3 align="center">Curious about new tech</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushar-yerkude&label=Profile%20views&color=0e75b6&style=flat" alt="tushar-yerkude" /> </p>
 
