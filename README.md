@@ -5,7 +5,8 @@
 
 - 📫 How to reach me **tusharyerkude@gmail.com**
 
-- 📄 Know about my experiences [https://sl1nk.com/tkoco77](https://sl1nk.com/tkoco77)
+- 📄 Know about my experiences
+- https://shorturl.at/qBVH7
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
